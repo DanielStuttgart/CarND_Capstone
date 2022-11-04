@@ -31,7 +31,6 @@ Corrected occurences in following file:
 ## Pushing and Pulling to Github
 ### Global information
 ```shell
-git config --global user.email "info@slieter.de"
 git config --global user.name "DanielStuttgart"
 ```
 These command lines are done within the script `/ros/init_git`.
